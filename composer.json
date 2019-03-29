@@ -1,0 +1,20 @@
+{
+    "name": "aradiv/yii2-debug",
+    "description": "Debug Module based on rbac",
+    "require": {
+        "yiisoft/yii2-debug": "^2.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Eric Brüggemann",
+            "email": "develop@aradiv.de"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "aradiv\\yii2\\debug\\": ""
+        }
+    }
+
+}
